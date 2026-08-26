@@ -1,0 +1,4 @@
+User-agent: *
+Disallow:
+
+Sitemap: https://seungyeon59.github.io/sitemap.xml
