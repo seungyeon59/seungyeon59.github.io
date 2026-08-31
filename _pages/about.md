@@ -30,6 +30,6 @@ latest_posts:
 
 M.S. student in Artificial Intelligence at Hanyang University, advised by Prof. [Dong-Kyu Chae](https://dkchae.github.io/). B.S. in Mathematics (minors in Big Data Convergence and Biomedical Engineering), graduated Cum Laude.
 
-My research interests include **LLM Reasoning**, **Agentic AI**, and **RAG (Retrieval-Augmented Generation)**. I am a co-first author of *AdapDict*, a level- and domain-adaptive educational dictionary and encyclopedia system built on LLMs, accepted to CSCW 2026. I am currently working on a graph-based recommendation system in collaboration with LG Electronics, developing dual-graph retrieval pipelines and LLM-based path reasoning for explainable, real-time content recommendation.
+My research interests include **LLM Reasoning**, **Agentic AI**, and **RAG (Retrieval-Augmented Generation)**. I am a co-first author of _AdapDict_, a level- and domain-adaptive educational dictionary and encyclopedia system built on LLMs, accepted to CSCW 2026. I am currently working on a graph-based recommendation system in collaboration with LG Electronics, developing dual-graph retrieval pipelines and LLM-based path reasoning for explainable, real-time content recommendation.
 
 Feel free to reach out about research collaborations or anything related to LLMs, RAG, or graph-based reasoning.

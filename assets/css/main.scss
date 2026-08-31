@@ -3,6 +3,7 @@
 # This file overrides the al_folio_core gem's assets/css/main.scss.
 # It re-uses all gem partials and appends local style overrides at the end.
 ---
+
 @charset "utf-8";
 
 /* Built-in Sass modules you’ll likely use across partials */
@@ -11,7 +12,7 @@
 
 /* Configure your design tokens BEFORE loading any of your partials. */
 @use "variables" with (
-  $max-content-width: {{ site.max_width | default:  "930px" }}
+  $max-content-width: {{site.max_width | default: "930px"}}
 );
 
 @use "themes";
