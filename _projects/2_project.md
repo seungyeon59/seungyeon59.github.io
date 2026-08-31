@@ -2,7 +2,7 @@
 layout: page
 title: "AdapDict: Level- and Domain-Adaptive Educational Dictionary"
 description: "Co-first author · CSCW 2026 (Accepted)"
-img:
+img: assets/img/adapdict.jpeg
 importance: 2
 category: research
 related_publications: true

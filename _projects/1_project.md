@@ -2,7 +2,7 @@
 layout: page
 title: GraphRAG-based Real-Time Recommendation
 description: Graduate Researcher · in collaboration with LG Electronics · Jan 2026 – Present
-img:
+img: assets/img/graphrag.png
 importance: 1
 category: research
 related_publications: false

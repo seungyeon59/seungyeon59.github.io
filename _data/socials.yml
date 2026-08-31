@@ -3,6 +3,5 @@
 # for more information, please refer to the documentation of jekyll-socials plugin: https://github.com/george-gca/jekyll-socials
 email: seungyeo@andrew.cmu.edu
 github_username: seungyeon59
-rss_icon: true # comment this line to hide the RSS icon
 # scholar_userid: # Google Scholar ID 가 있으면 주석을 풀고 입력 (예: qc6CJjYAAAAJ)
 # cv_pdf: /assets/pdf/CV.pdf # assets/pdf/ 에 CV PDF 를 올리고 이 줄의 주석을 풀어 경로를 맞추세요
