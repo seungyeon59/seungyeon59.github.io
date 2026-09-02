@@ -1,28 +1,40 @@
 cv:
   name: Seungyeon Back
-  label: M.S. Student in Artificial Intelligence
+  label: M.S. Student in Artificial Intelligence, Hanyang University | Visiting Student, Carnegie Mellon University
   email: seungyeo@andrew.cmu.edu
-  location: Seoul, South Korea
-  image: prof_pic.jpg
+  location: Pittsburgh, PA, USA
+  image: prof_pic.jpeg
   summary: >
     M.S. student in Artificial Intelligence at Hanyang University, advised by Prof. Dong-Kyu Chae,
-    with a B.S. in Mathematics. Research interests include LLM Reasoning, Agentic AI, and RAG.
-    Co-first author of AdapDict (CSCW 2026) and currently working on graph-based retrieval for
-    real-time recommendation in collaboration with LG Electronics.
+    with a B.S. in Mathematics, currently a visiting student at Carnegie Mellon University.
+    Research interests include LLM Reasoning, LLM Agent, and RAG. Co-first author of AdapDict
+    (CSCW 2026) and currently working on graph-based retrieval for real-time recommendation in
+    collaboration with LG Electronics.
 
   social_networks:
     - network: GitHub
       username: seungyeon59
 
   address:
-    street: ""
-    city: Seoul
-    region: ""
-    postalCode: ""
-    countryCode: KR
+    street: 5000 Forbes Avenue
+    city: Pittsburgh
+    region: PA
+    postalCode: "15213"
+    countryCode: US
 
   sections:
     Education:
+      - institution: Carnegie Mellon University
+        location: Pittsburgh, PA, USA
+        url: https://www.cmu.edu/
+        area: ""
+        studyType: Visiting Student
+        start_date: 2026-08-01
+        end_date: 2027-02-01
+        score: ""
+        courses: ""
+        highlights: []
+
       - institution: Hanyang University
         location: Seoul, South Korea
         url: https://www.hanyang.ac.kr/
@@ -34,7 +46,7 @@ cv:
         courses: ""
         highlights:
           - "Advised by Prof. Dong-Kyu Chae"
-          - "Research interests: LLM Reasoning, Agentic AI, RAG"
+          - "Research interests: LLM Reasoning, LLM Agent, RAG"
 
       - institution: Hanyang University
         location: Seoul, South Korea
@@ -126,4 +138,4 @@ cv:
     Interests:
       - name: Research
         icon: fa-solid fa-tag
-        keywords: "LLM Reasoning, Agentic AI, RAG"
+        keywords: "LLM Reasoning, LLM Agent, RAG"
