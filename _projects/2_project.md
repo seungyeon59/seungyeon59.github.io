@@ -10,11 +10,18 @@ related_publications: true
 
 A user-adaptive and reliable LLM-based system for personalized dictionaries and encyclopedia entries.
 
+<div class="row justify-content-sm-center">
+  <div class="col-sm-12 mt-3 mt-md-0">
+    {% include figure.liquid path="assets/img/adapdict.jpeg" class="img-fluid rounded z-depth-1" zoomable=true alt="A query is analyzed for native and target language, adapted to the user's field and level, then generated and checked by a verifier before the explanation is returned." %}
+  </div>
+</div>
+<div class="caption">
+  The query analyzer infers the native and target language, the user prompt adaptor conditions on the reader's field and level, and a generator&ndash;verifier loop returns an error message and regenerates whenever the draft fails validation.
+</div>
+
 - Proposed a level- and domain-adaptive explanation framework for controllable explanation generation in LLMs.
 - Designed a generator–verifier loop with structured outputs, reducing hallucination by 50%.
 - Developed a user-adaptive prompting mechanism for multi-dimensional control of explanation difficulty.
 - Conducted a user study (n=41) demonstrating improved clarity, usability, and domain-specific understanding over baseline tools.
 
 {% cite adapdict2026 %}
-
-<!-- TODO: 논문 링크(url/pdf), 프로젝트 이미지 등을 추가하세요. -->
