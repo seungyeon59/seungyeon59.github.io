@@ -3,7 +3,7 @@ layout: page
 title: Clustering of Mountain Hiking GPS Trajectory Data
 description: "Co-first author · Under Revision at IEEE Access"
 img:
-importance: 3
+importance: 5
 category: research
 related_publications: true
 ---

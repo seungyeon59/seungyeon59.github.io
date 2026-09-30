@@ -3,7 +3,7 @@ layout: page
 title: Stock Prediction with Deep Time-Series Models
 description: "Undergraduate Researcher · Applied Statistics Lab, Hanyang University (Nov 2023 – Dec 2024)"
 img:
-importance: 4
+importance: 6
 category: research
 related_publications: false
 ---
