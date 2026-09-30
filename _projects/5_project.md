@@ -2,7 +2,7 @@
 layout: page
 title: "JoyWalk: Walking Routes for Small Happiness"
 description: "Best Use of API (Vultr) · HackCMU 2026 · Team OdyssAI"
-img: assets/img/joywalk.jpg
+img: assets/img/joywalk_architecture.jpg
 importance: 3
 category: research
 related_publications: false
